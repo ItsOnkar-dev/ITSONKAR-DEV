@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/c7ac8d9c-7841-404a-a87f-cd7d4309b0bf" height="240px" />
+<img src="https://github.com/user-attachments/assets/46b3c654-7e90-414d-b3de-afff68758248" height="240px" />
 
 <br>
 <br>
@@ -66,9 +66,10 @@
    <br>
    <br>
 
-   <img src="https://github.com/user-attachments/assets/779e7140-f15b-48df-baa4-25572cc929c7" alt="Coding" height="280px" width="100%" />
+   <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" height="280px" width="95%" />
 
-</div> 
+</div>
+
    
 <br>
 
