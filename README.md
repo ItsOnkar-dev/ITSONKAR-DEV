@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-   <p style="font-family: 'Ubuntu';">Innovative <strong> Front-end Developer </strong> passionate about crafting impactful, user-friendly, performance-optimized user interfaces and user-centric design. Proficient in leveraging React.js and Redux.js to develop dynamic and responsive user interfaces, enhancing the overall user experience and engagement.🌐✨</p>
+   <p style="font-family: 'Ubuntu';">Innovative <strong> Front-end Developer </strong> with over 2 years of experience in crafting impactful, user-friendly, performance-optimized user interfaces and user-centric design. Proficient in leveraging JavaScript, React.js, Redux.js and Tailwind CSS to develop dynamic and responsive user interfaces, enhancing the overall user experience and engagement.🌐✨</p>
 </div>
 
 <br>
@@ -60,7 +60,7 @@
    <br>
    🎮 Feel free to **explore, fork,** and **star** my repositories.  
    <br>
-   🤝 I’m actively seeking **Internships and Jobs**, preferably in a Software Development Role.  
+   🤝 I’m actively seeking **Jobs**, preferably in a Software Development Role.  
    <br>
    😀 **Follow me,** and let's explore the impactful possibilities we can create in the ever-evolving realm of **software development.**
    <br>
