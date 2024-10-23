@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-   <p style="font-family: 'Ubuntu';">Innovative <strong> Front-end Developer </strong>with with extensive experience in crafting impactful, user-friendly, performance-optimized user interfaces and user-centric design. Proficient in leveraging JavaScript, React.js, Redux.js and Tailwind CSS to develop dynamic and responsive user interfaces, enhancing the overall user experience and engagement.🌐✨</p>
+   <p style="font-family: 'Ubuntu';">Innovative <strong> Front-end Developer </strong>with extensive experience in crafting impactful, user-friendly, performance-optimized user interfaces and user-centric design. Proficient in leveraging JavaScript, React.js, Redux.js and Tailwind CSS to develop dynamic and responsive user interfaces, enhancing the overall user experience and engagement.🌐✨</p>
 </div>
 
 <br>
