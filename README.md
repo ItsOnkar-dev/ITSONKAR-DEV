@@ -14,16 +14,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkar-karale-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=for-the-badge" height="22" alt="LinkedIn logo" />
   </a>
   <a href="https://www.twitter.com/ItsOnkar_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop+a+Hi!&color=1DA1F2&logoColor=white&style=for-the-badge" height="28" alt="Twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop+a+Hi!&color=1DA1F2&logoColor=white&style=for-the-badge" height="22" alt="Twitter logo" />
   </a>
   <a href="mailto:onkarkarale.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=for-the-badge" height="22" alt="Gmail logo" />
   </a>
   <a href="https://dev.to/onkar_karale" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=Explore+blogs&color=5A67F2&logoColor=white&style=for-the-badge" height="28" alt="Dev logo" />
+    <img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=Explore+blogs&color=5A67F2&logoColor=white&style=for-the-badge" height="22" alt="Dev logo" />
   </a>
 </div>
 
@@ -38,8 +38,8 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-   
+<div>
+  
    🛠️ I'm highly skilled in **Frontend Development** specializing in React.js in building scalable and top-notch web applications. 
    
    🎨 Strong command on **Bootstrap,** **Material UI,** **Tailwind CSS** and **responsive design principles.**  
@@ -51,10 +51,9 @@
    🤝 I'm actively seeking **Jobs**, preferably in a Software Development Role.  
    
    😀 **Follow me,** and let's explore the impactful possibilities we can create in the ever-evolving realm of **software development.**
-</div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="80%" />
+   <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" />
+   
 </div>
 
 <div align="center">
@@ -63,7 +62,7 @@
 
 ## 🚀 Programming Languages and Tools
 
-<div align="center">
+<div>
    
    ### Frontend
    [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,tailwind,js,react,redux,c,cpp,python)](https://github.com/ItsOnkar-dev)
@@ -81,7 +80,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=dracula" alt="GitHub Trophies" width="100%" />
 </div>
 
 <div align="center">
@@ -91,23 +90,29 @@
 ## 🔥 My Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical" width="49%" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=radical" width="49%" alt="Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical" width="50%" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=radical" width="50%" alt="Languages" />
 </div>
+<br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical" width="70%" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical" width="100%" alt="Streak Stats" />
 </div>
+<br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsOnkar-dev&theme=radical" alt="Profile Summary" width="100%" />
 </div>
 
-## 🥽 3-D Contribution Graph
+## 🥽 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github.com/ItsOnkar-dev/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsOnkar-dev&theme=react-dark" width="100%"/>
 </div>
+<div align="center">
+  <h3>Check out my GitHub Skyline: <a href="https://skyline.github.com/ItsOnkar-dev/2023">2023</a> | <a href="https://skyline.github.com/ItsOnkar-dev/2024">2024</a></h3>
+</div>
+<div align="center">
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
