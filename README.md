@@ -32,16 +32,16 @@
   <a href="mailto:onkarkarale.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=for-the-badge&font=Ubuntu" height="22" alt="Gmail logo" />
   </a>
-  <a href="https://discord.com/users/1141731321027231855" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Drop+your+ideas&color=5A67F2&logoColor=white&style=for-the-badge&font=Ubuntu" height="22" alt="Discord logo" />
+  <a href="https://dev.to/onkar_karale" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=Explore+blogs&color=5A67F2&logoColor=white&style=for-the-badge&font=Ubuntu" height="22" alt="Dev logo" />
   </a>
 </div>
 
 <br>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=onkar895&label=Profile+views&color=0e75b6&style=flat&font=Ubuntu" alt="Profile views" />
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/onkar895?color=tomato&logo=github&font=Ubuntu">
+   <img src="https://komarev.com/ghpvc/?username=ItsOnkar-dev&label=Profile+views&color=0e75b6&style=flat&font=Ubuntu" alt="Profile views" />
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsOnkar-dev?color=tomato&logo=github&font=Ubuntu">
 </p>
 
 <br>
@@ -89,24 +89,27 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onkar895&theme=dracula" alt="GitHub Trophies" width="1000" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=dracula" alt="GitHub Trophies" width="1000" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <h2 align="center" style="font-family: 'Ubuntu';">🔥 <strong>My Stats:</strong></h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onkar895&langs_count=10&show_icons=true&locale=en&theme=radical&font=Ubuntu" alt="onkar895"/>
-
-&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onkar895&show_icons=true&locale=en&theme=radical&font=Ubuntu" width="500" alt="onkar895" />
+<img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&langs_count=10&show_icons=true&locale=en&theme=radical&font=Ubuntu" alt="ItsOnkar-dev"/>
+<img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=username=ItsOnkar-dev&show_icons=true&locale=en&theme=radical&font=Ubuntu" alt="ItsOnkar-dev"/>
  
-&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar895&theme=radical&font=Ubuntu" width="500" alt="onkar895" />
+&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&font=Ubuntu" width="500" alt="ItsOnkar-dev" />
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onkar895&theme=radical&font=Ubuntu" alt="onkar895" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsOnkar-dev&theme=radical&font=Ubuntu" alt="onkar895" width="100%" />
 </div>
+
+## 🥽 3-D Contribution graph
+
+<img src="https://github.com/ItsOnkar-dev/ItsOnkar-dev/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
