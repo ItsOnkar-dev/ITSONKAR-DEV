@@ -52,7 +52,7 @@
    
    😀 **Follow me,** and let's explore the impactful possibilities we can create in the ever-evolving realm of **software development.**
 
-   <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" height="80%" />
+   <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" height="350px" />
    
 </div>
 
@@ -71,7 +71,7 @@
    [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase)](https://github.com/ItsOnkar-dev)
    
    ### Tools
-   [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,babel,vite,vercel,render,npm,postman)](https://github.com/ItsOnkar-dev)
+   [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,babel,vite,vercel,postman,jest)](https://github.com/ItsOnkar-dev)
    
 </div>
 
@@ -97,7 +97,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical" width="98%" height="80%" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="98%" height="320px" alt="Streak Stats" />
 </div>
 <br>
 
@@ -110,10 +110,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsOnkar-dev&theme=react-dark" width="100%"/>
 </div>
-<div align="center">
-  <h3>Check out my GitHub Skyline: <a href="https://skyline.github.com/ItsOnkar-dev/2023">2023</a> | <a href="https://skyline.github.com/ItsOnkar-dev/2024">2024</a></h3>
-</div>
-<div align="center">
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
