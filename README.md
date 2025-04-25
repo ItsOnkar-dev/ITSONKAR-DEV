@@ -11,7 +11,7 @@
 <div align="center">
    <p>Innovative <strong>Front-end Developer</strong> with extensive experience in crafting impactful, user-friendly, performance-optimized user interfaces and user-centric design. Proficient in leveraging <strong>JavaScript, React.js, Redux.js and Tailwind CSS</strong> to develop dynamic and responsive user interfaces, enhancing the overall user experience and engagement.🌐✨</p>
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/omkar-karale-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=for-the-badge" height="24" alt="LinkedIn logo" />
@@ -97,7 +97,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="98%" height="320px" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="98%" alt="Streak Stats" />
 </div>
 <br>
 
