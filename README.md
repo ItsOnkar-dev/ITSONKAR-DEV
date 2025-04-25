@@ -63,14 +63,17 @@
 ## 🚀 Programming Languages and Tools
 
 <div>
+  
+   ### 💻 Programming Languages
+   [![Languages](https://skillicons.dev/icons?i=js,c,cpp,python)](https://github.com/ItsOnkar-dev)
    
-   ### Frontend
-   [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,sass,tailwind,js,react,redux,c,cpp,python)](https://github.com/ItsOnkar-dev)
+   ### 🌐 Frontend Technologies
+   [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,sass,tailwind,js,react,angular,redux,nextjs)](https://github.com/ItsOnkar-dev)
    
-   ### Backend
-   [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase)](https://github.com/ItsOnkar-dev)
+   ### 🌐 Backend Technologies
+   [![Backend](https://skillicons.dev/icons?i=nodejs,express,nextjs,mongo,mysql,firebase)](https://github.com/ItsOnkar-dev)
    
-   ### Tools
+   ### 🛠️ Tools & Platforms
    [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,babel,vite,vercel,postman,jest)](https://github.com/ItsOnkar-dev)
    
 </div>
@@ -97,12 +100,12 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="85%" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="88%" alt="Streak Stats" />
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsOnkar-dev&theme=radical" alt="Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsOnkar-dev&theme=radical" alt="Profile Summary" width="98%" />
 </div>
 
 ## 🥽 GitHub Activity Graph
