@@ -23,13 +23,13 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/omkarkarale541/" target="_blank">
+  <a href="https://www.linkedin.com/in/omkar-karale-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=for-the-badge&font=Ubuntu" height="22" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.twitter.com/Onkar895" target="_blank">
+  <a href="https://www.twitter.com/ItsOnkar_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop+a+Hi!&color=1DA1F2&logoColor=white&style=for-the-badge&font=Ubuntu" height="22" alt="Twitter logo" />
   </a>
-  <a href="mailto:onkarkarale4@gmail.com" target="_blank">
+  <a href="mailto:onkarkarale.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=for-the-badge&font=Ubuntu" height="22" alt="Gmail logo" />
   </a>
   <a href="https://discord.com/users/1141731321027231855" target="_blank">
