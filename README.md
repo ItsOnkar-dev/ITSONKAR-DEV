@@ -14,19 +14,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omkar-karale-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=for-the-badge" height="22" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=for-the-badge" height="24" alt="LinkedIn logo" />
   </a>
   <a href="https://www.twitter.com/ItsOnkar_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop+a+Hi!&color=1DA1F2&logoColor=white&style=for-the-badge" height="22" alt="Twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop+a+Hi!&color=1DA1F2&logoColor=white&style=for-the-badge" height="24" alt="Twitter logo" />
   </a>
   <a href="mailto:onkarkarale.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=for-the-badge" height="22" alt="Gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=for-the-badge" height="24" alt="Gmail logo" />
   </a>
   <a href="https://dev.to/onkar_karale" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=Explore+blogs&color=5A67F2&logoColor=white&style=for-the-badge" height="22" alt="Dev logo" />
+    <img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=Explore+blogs&color=5A67F2&logoColor=white&style=for-the-badge" height="24" alt="Dev logo" />
   </a>
 </div>
-
+<br>
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=ItsOnkar-dev&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsOnkar-dev?color=tomato&logo=github">
@@ -52,7 +52,7 @@
    
    😀 **Follow me,** and let's explore the impactful possibilities we can create in the ever-evolving realm of **software development.**
 
-   <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" />
+   <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" height="80%" />
    
 </div>
 
@@ -65,13 +65,13 @@
 <div>
    
    ### Frontend
-   [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,tailwind,js,react,redux,c,cpp,python)](https://github.com/ItsOnkar-dev)
+   [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,sass,tailwind,js,react,redux,c,cpp,python)](https://github.com/ItsOnkar-dev)
    
    ### Backend
    [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase)](https://github.com/ItsOnkar-dev)
    
    ### Tools
-   [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,babel,vite,vercel,npm)](https://github.com/ItsOnkar-dev)
+   [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,babel,vite,vercel,render,npm,postman)](https://github.com/ItsOnkar-dev)
    
 </div>
 
@@ -79,10 +79,11 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
 
+## 🏆 Github Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=dracula" alt="GitHub Trophies" width="100%" />
 </div>
-
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
@@ -90,13 +91,13 @@
 ## 🔥 My Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical" width="50%" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=radical" width="50%" alt="Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical" width="49%" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=radical" width="49%" alt="Languages" />
 </div>
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical" width="100%" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical" width="98%" height="80%" alt="Streak Stats" />
 </div>
 <br>
 
