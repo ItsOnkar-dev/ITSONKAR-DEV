@@ -92,12 +92,12 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical" width="49%" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=radical" width="49%" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsOnkar-dev&layout=compact&theme=radical&hide_border=true" width="49%" alt="Languages" />
 </div>
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="98%" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="85%" alt="Streak Stats" />
 </div>
 <br>
 
