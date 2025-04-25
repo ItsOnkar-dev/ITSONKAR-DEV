@@ -5,7 +5,7 @@
 ![Banner Image](https://github.com/user-attachments/assets/46b3c654-7e90-414d-b3de-afff68758248)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Front-End+Developer+😉" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Front-End+Developer+😉&font=Ubuntu" />
 </p>
 
 <div align="center">
@@ -64,16 +64,16 @@
 
 <div>
   
-   ### 💻 Programming Languages
+   ### Programming Languages
    [![Languages](https://skillicons.dev/icons?i=js,c,cpp,python)](https://github.com/ItsOnkar-dev)
    
-   ### 🌐 Frontend Technologies
+   ### Frontend Technologies
    [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,sass,tailwind,js,react,angular,redux,nextjs)](https://github.com/ItsOnkar-dev)
    
-   ### 🌐 Backend Technologies
+   ### Backend Technologies
    [![Backend](https://skillicons.dev/icons?i=nodejs,express,nextjs,mongo,mysql,firebase)](https://github.com/ItsOnkar-dev)
    
-   ### 🛠️ Tools & Platforms
+   ### Tools & Platforms
    [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,babel,vite,vercel,postman,jest)](https://github.com/ItsOnkar-dev)
    
 </div>
