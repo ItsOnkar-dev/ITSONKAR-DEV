@@ -97,7 +97,7 @@
 <h2 align="center" style="font-family: 'Ubuntu';">🔥 <strong>My Stats:</strong></h2>
 
 <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&langs_count=10&show_icons=true&locale=en&theme=radical&font=Ubuntu" alt="ItsOnkar-dev"/>
-<img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=username=ItsOnkar-dev&show_icons=true&locale=en&theme=radical&font=Ubuntu" alt="ItsOnkar-dev"/>
+<img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&show_icons=true&locale=en&theme=radical&font=Ubuntu" alt="ItsOnkar-dev"/>
  
 &nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&font=Ubuntu" width="500" alt="ItsOnkar-dev" />
 
@@ -109,7 +109,7 @@
 
 ## 🥽 3-D Contribution graph
 
-<img src="https://github.com/ItsOnkar-dev/ItsOnkar-dev/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<img src="https://github.com/ItsOnkar-dev/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
