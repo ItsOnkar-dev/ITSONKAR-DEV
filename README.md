@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" height="280px"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" height="260px"/>
 </div>
 <br>
 
@@ -55,7 +55,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" height="340px" />
+  <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" height="330px" />
 </div>
 
 <div align="center">
