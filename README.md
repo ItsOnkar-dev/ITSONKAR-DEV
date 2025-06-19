@@ -8,7 +8,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="start">
   <h2>A Full Stack Developer 💻</h2>
   <p>
     An innovative <strong>Full-Stack Developer</strong> with experience in the design, development and maintenance of web applications, specialized in <strong>MERN Stack (MongoDB, Express.js, React, Node.js)         </strong>, modern web development, and a variety of UI libraries, frameworks & tools. Passionate about crafting impactful, user-centric, and performance-optimized digital experiences to build dynamic and         responsive applications that delight users. 🌐✨
@@ -16,7 +16,7 @@
 </div>
 <br>
 <!-- SOCIALS -->
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/omkar-karale-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=flat" height="26" alt="LinkedIn logo" />
   </a>
@@ -31,7 +31,7 @@
   </a>
 </div>
 <br>
-<p align="center">
+<p align="start">
    <img src="https://komarev.com/ghpvc/?username=ItsOnkar-dev&label=Profile+views&color=0e75b6&style=flat" height="26" alt="Profile views" />
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsOnkar-dev?color=tomato&logo=github" height="26">
 </p>
