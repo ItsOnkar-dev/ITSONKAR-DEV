@@ -1,66 +1,70 @@
 <div align="center">
-  <h1>HELLO GUYS👋, WELCOME TO MY PROFILE! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
+  <h1>Hello there👋, Welcome to my profile! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
 </div>
 
-![Banner Image](https://github.com/user-attachments/assets/46b3c654-7e90-414d-b3de-afff68758248)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4000&color=FFFFFF&vCenter=true&center=true&width=600&lines=A+Front-End+Developer+😉&font=Ubuntu" />
-</p>
-
+<!-- Banner -->
 <div align="center">
-   <p>Innovative <strong>Front-end Developer</strong> with extensive experience in crafting impactful, user-friendly, performance-optimized user interfaces and user-centric design. Proficient in leveraging <strong>JavaScript, React.js, Redux.js and Tailwind CSS</strong> to develop dynamic and responsive user interfaces, enhancing the overall user experience and engagement.🌐✨</p>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" height="280px"/>
 </div>
 <br>
+
+<div align="center">
+  <h2>A Full Stack Developer 💻</h2>
+  <p>
+    An innovative <strong>Full-Stack Developer</strong> with experience in the design, development and maintenance of web applications, specialized in <strong>MERN Stack (MongoDB, Express.js, React, Node.js)         </strong>, modern web development, and a variety of UI libraries, frameworks & tools. Passionate about crafting impactful, user-centric, and performance-optimized digital experiences to build dynamic and         responsive applications that delight users. 🌐✨
+  </p>
+</div>
+<br>
+<!-- SOCIALS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/omkar-karale-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=for-the-badge" height="24" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect+With+Me&color=0077B5&logoColor=white&style=flat" height="26" alt="LinkedIn logo" />
   </a>
   <a href="https://www.twitter.com/ItsOnkar_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop+a+Hi!&color=1DA1F2&logoColor=white&style=for-the-badge" height="24" alt="Twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=Drop+a+Hi!&color=1DA1F2&logoColor=white&style=flat" height="26" alt="Twitter logo" />
   </a>
   <a href="mailto:onkarkarale.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=for-the-badge" height="24" alt="Gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=If+you+love+the+traditional+way&color=D14836&logoColor=white&style=flat" height="26" alt="Gmail logo" />
   </a>
   <a href="https://dev.to/onkar_karale" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=Explore+blogs&color=5A67F2&logoColor=white&style=for-the-badge" height="24" alt="Dev logo" />
+    <img src="https://img.shields.io/static/v1?message=Dev&logo=dev&label=Explore+blogs&color=5A67F2&logoColor=white&style=flat" height="26" alt="Dev logo" />
   </a>
 </div>
 <br>
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=ItsOnkar-dev&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsOnkar-dev?color=tomato&logo=github">
+   <img src="https://komarev.com/ghpvc/?username=ItsOnkar-dev&label=Profile+views&color=0e75b6&style=flat" height="26" alt="Profile views" />
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsOnkar-dev?color=tomato&logo=github" height="26">
 </p>
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-<div>
+- 🚀 Specializing in **Full-Stack Development** with the MERN stack, I build scalable and exceptional web applications from front to back.
   
-   🛠️ I'm highly skilled in **Frontend Development** specializing in React.js in building scalable and top-notch web applications. 
-   
-   🎨 Strong command on **Bootstrap,** **Material UI,** **Tailwind CSS** and **responsive design principles.**  
-   
-   💻 Currently focusing on learning **Next.js**, **Node.js**, **Express.js** and **MongoDB**.  
-   
-   🎮 Feel free to **explore, fork,** and **star** my repositories.  
-   
-   🤝 I'm actively seeking **Jobs**, preferably in a Software Development Role.  
-   
-   😀 **Follow me,** and let's explore the impactful possibilities we can create in the ever-evolving realm of **software development.**
+- 🎨 Proficient with **Bootstrap, Material UI, & Tailwind CSS** to create beautiful, responsive designs that work on any device.
+  
+- 📚 Always learning! My focus is on mastering the full development lifecycle with **React, Next.js, Node.js, Express.js, and MongoDB**.
+  
+- 👨‍💻 Actively seeking **full-time opportunities** in Software Development. I'm excited to bring my skills to a forward-thinking team.
+  
+- 💡 Feel free to **explore my repositories**, and don't hesitate to **fork** or **star** projects you find interesting!
+  
+<br>
 
-   <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" height="350px" />
-   
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c8da69f5-f244-459f-a93e-ba56a654ff1e" alt="Coding" width="100%" height="340px" />
 </div>
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
 
-## 🚀 Programming Languages and Tools
+<br>
+
+## 🛠️ My Tech Stack 
 
 <div>
   
