@@ -91,6 +91,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=dracula" alt="GitHub Trophies" width="100%" />
 </div>
+<br>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
@@ -104,12 +105,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsOnkar-dev&theme=radical&hide_border=true" width="88%" alt="Streak Stats" />
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsOnkar-dev&theme=radical" alt="Profile Summary" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsOnkar-dev&theme=radical" alt="Profile Summary" width="100%" />
 </div>
 
 ## 🥽 GitHub Activity Graph
