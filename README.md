@@ -4,14 +4,14 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" height="260px"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" height="300px"/>
 </div>
 <br>
 
 <div align="start">
-  <h2>A Full Stack Developer 💻</h2>
+  <h2>Full Stack Developer 💻</h2>
   <p>
-    An innovative <strong>Full-Stack Developer</strong> with experience in the design, development and maintenance of web applications, specialized in <strong>MERN Stack (MongoDB, Express.js, React, Node.js)         </strong>, modern web development, and a variety of UI libraries, frameworks & tools. Passionate about crafting impactful, user-centric, and performance-optimized digital experiences to build dynamic and         responsive applications that delight users. 🌐✨
+    An innovative <strong>Software Engineer</strong> with experience in the design, development and maintenance of web applications, specialized in <strong>MERN Stack (MongoDB, Express.js, React, Node.js)         </strong>, modern web development, and a variety of UI libraries, frameworks & tools. Passionate about crafting impactful, user-centric, and performance-optimized digital experiences to build dynamic and         responsive applications that delight users. 🌐✨
   </p>
 </div>
 <br>
