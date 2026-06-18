@@ -97,12 +97,15 @@ I'm a passionate developer with a deep love for building products that matter. H
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
 
-## 🏆 Github Trophies
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=dracula" alt="GitHub Trophies" width="100%" />
+  <a href="https://github.com/ItsOnkar-dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 <br>
+
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
@@ -110,7 +113,7 @@ I'm a passionate developer with a deep love for building products that matter. H
 ## 🔥 My Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical" width="49%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsOnkar-dev&theme=radical&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsOnkar-dev&layout=compact&theme=radical&hide_border=true" width="49%" alt="Languages" />
 </div>
 <br>
@@ -122,7 +125,7 @@ I'm a passionate developer with a deep love for building products that matter. H
 ## 🥽 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsOnkar-dev&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsOnkar-dev&theme=react-dark&radius=15" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
