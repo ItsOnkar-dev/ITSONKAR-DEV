@@ -9,12 +9,9 @@
 <br>
 
 <div align="start">
-  <h2>💻 Full Stack Developer | 🚀 MERN Stack Specialist | 🎯 Problem Solver</h2>
+  <h2>💻 Full Stack Developer | 🚀 MERN Stack | 🎯 Problem Solver</h2>
   <p>
     An innovative <strong>Software Engineer</strong> passionate about crafting elegant solutions to complex problems. I specialize in building scalable, user-centric web applications using the <strong>MERN Stack (MongoDB, Express.js, React, Node.js)</strong> and modern web technologies.
-  </p>
-  <p>
-    <strong>💼 Currently Seeking:</strong> Full-time opportunities in Software Development where I can make an impact!
   </p>
 </div>
 <br>
@@ -51,7 +48,7 @@
 
 I'm a passionate developer with a deep love for building products that matter. Here's what drives me:
 
-- 🚀 **Full-Stack Excellence**: Specialized in the **MERN stack**, building scalable and exceptional web applications from database to UI
+- 🚀 **Full-Stack Excellence**: Building scalable and exceptional web applications using the **MERN stack** from database to UI
   
 - 🎨 **Design-Minded Developer**: Proficient with **Bootstrap, Material UI, & Tailwind CSS** to create beautiful, responsive designs that look stunning on any device
   
@@ -92,19 +89,6 @@ I'm a passionate developer with a deep love for building products that matter. H
    [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,babel,vite,vercel,postman,jest)](https://github.com/ItsOnkar-dev)
    
 </div>
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</div>
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <a href="https://github.com/ItsOnkar-dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=ItsOnkar-dev&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-<br>
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
