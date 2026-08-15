@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello👋, Welcome to my profile! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
+  <h2>Hello👋, Welcome to my profile! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h2>
 </div>
 
 <br>
@@ -22,13 +22,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ItsOnkar-dev&label=Profile+views&color=E85673&style=flat" width="15%" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ItsOnkar-dev&label=Profile+views&color=E85673&style=flat" alt="Profile views" />
   &nbsp;&nbsp;
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsOnkar-dev?color=tomat&logo=github" width="13%" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ItsOnkar-dev?color=tomato&logo=github" />
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=flat" width="16%" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=flat" />
 
 </div>
 
