@@ -1,19 +1,23 @@
 <div align="center">
-  <h2>Hello👋, Welcome to my profile! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h2>
+  <img src="https://img.shields.io/badge/Hello%20👋%20Welcome%20to%20my%20profile!-3b82f6?style=flat&color=F75C7E&logoColor=white" width="35%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="Omkar Karale Banner Img" />
+  <img src="https://github.com/user-attachments/assets/f008dc44-bc00-4424-b0ed-5637cdd865c3" width="100%" alt="github_JS" />
 </div>
 <br>
+
+
 
 <div align="center">
  <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=F75C7E&center=true&vCenter=true&width=900&lines=Welcome+to+my+digital+playground+%F0%9F%9A%80;Hey%2C+I'm+Omkar+Karale+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Building+scalable+products+that+users+love;Open+to+collaboration+%26+impactful+work" alt="Typing SVG Tech Stack" />
 </a>
 <br>
+
 <p>
     An innovative <strong>Software Engineer</strong> passionate about building scalable, user-centric web applications using the <strong>MERN Stack (MongoDB, Express.js, React, Node.js)</strong> and modern web technologies.
   </p>
@@ -54,9 +58,10 @@ I specialize in the **MERN stack** and modern frontend tooling, with a strong fo
 
 Based in **Pune, India** · Open to meaningful collaborations and opportunities that challenge me to grow.
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"  />
+<div align="center">
+  <img alt="GitHub About" src="https://github.com/user-attachments/assets/c177458d-22f7-408e-ad69-e5be272f3a4a" width="1595" height="600" />
 </div>
+
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -66,7 +71,7 @@ Based in **Pune, India** · Open to meaningful collaborations and opportunities 
   <tr>
     <!-- SnapCart -->
     <td align="center" width="33%" valign="top">
-      <img src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/40zokhq6lrobdho4diwj.png" width="260" height="150" style="border-radius: 8px; object-fit: cover;" /><br><br>
+      <img src="https://github.com/user-attachments/assets/7411e4d0-43b6-4c2a-ba08-b0145ca7d4df" width="260" height="150" alt="SnapCartHome" /><br><br>
       <strong>🛒 SnapCart</strong><br>
       <sub>Multi-vendor e-commerce platform</sub><br><br>
       <code>React</code> <code>Node</code> <code>TS</code> <code>Mongo</code><br><br>
@@ -79,7 +84,7 @@ Based in **Pune, India** · Open to meaningful collaborations and opportunities 
     </td>
      <!-- AuthForge -->
     <td align="center" width="33%" valign="top">
-      <img src="https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/2q9w1g9dchi65zbwjycw.png" width="260" height="150" style="border-radius: 8px; object-fit: cover;" /><br><br>
+      <img src="https://github.com/user-attachments/assets/6cb9eeeb-9fb2-4626-98dc-440a36c8ee07" width="260" height="150" alt="Homepage" /><br><br>
       <strong>🔐 Secure AuthForge</strong><br>
       <sub>Production-ready MERN auth system</sub><br><br>
       <code>JWT</code> <code>OAuth2</code> <code>Express</code> <code>TS</code><br><br>
@@ -106,6 +111,10 @@ Based in **Pune, India** · Open to meaningful collaborations and opportunities 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50" /> Tech Arsenal
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f66874ed-dc45-4436-a2e6-91655c9efd94" width="100%" alt="GitHub Header" />
+</div>
 
 <div>
   <h3>Languages</h3>
@@ -288,6 +297,7 @@ From full-stack e-commerce platforms to production-ready authentication systems 
 
 <br>
 
+
 <div align="center">
   <p>⭐️ If you like my work, consider starring some of my repositories — it genuinely helps and keeps me motivated to build more.</p>
   <p>Thanks for stopping by. Let’s create something remarkable together.</p>
@@ -299,4 +309,6 @@ From full-stack e-commerce platforms to production-ready authentication systems 
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding animation" />
+</div>
