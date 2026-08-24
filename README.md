@@ -253,16 +253,21 @@ mindmap
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="30" /> GitHub Metrics
 
 <div align="center">
+
+  <!-- GitHub Profile + Stats -->
   <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical"
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ItsOnkar-dev&show_icons=true&count_private=true&hide_border=true&title_color=F75C7E&icon_color=F75C7E&text_color=c9d1d9&bg_color=0d1117"
+    height="200"
     alt="GitHub Stats"
   />
-  <img
+    <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=radical"
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsOnkar-dev&layout=compact&hide_border=true&title_color=F75C7E&text_color=c9d1d9&bg_color=0d1117&langs_count=8"
+    height="200"
     alt="Top Languages"
   />
+
 </div>
 
 <br>
@@ -270,7 +275,9 @@ mindmap
 <div align="center">
   <img
     src="https://streak-stats.demolab.com/?user=ItsOnkar-dev&theme=radical&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=c9d1d9&currStreakLabel=F75C7E&sideLabels=c9d1d9&dates=c9d1d9"
-    alt="GitHub Streak"
+width="49%"
+height="200"
+alt="GitHub Streak"
   />
 </div>
 
