@@ -256,13 +256,13 @@ mindmap
 
   <!-- GitHub Profile + Stats -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItsOnkar-dev&theme=transparent"
     width="49%"
     height="200"
     alt="GitHub Stats"
   />
     <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItsOnkar-dev&theme=transparent"
     width="49%"
     height="200"
     alt="Top Languages"
@@ -274,7 +274,7 @@ mindmap
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ItsOnkar-dev&theme=radical&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=c9d1d9&currStreakLabel=F75C7E&sideLabels=c9d1d9&dates=c9d1d9"
+    src="https://streak-stats.demolab.com/?user=ItsOnkar-dev&theme=dracula&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakNum=F75C7E&sideNums=c9d1d9&currStreakLabel=F75C7E&sideLabels=c9d1d9&dates=c9d1d9"
 width="49%"
 height="200"
 alt="GitHub Streak"
@@ -312,23 +312,23 @@ alt="Tech Animation" />
 <br><br>
 
 <div>
-  <a href="https://www.linkedin.com/in/omkar-karale-dev/">
+  <a href="https://www.linkedin.com/in/omkar-karale-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/ItsOnkar_dev">
+  <a href="https://twitter.com/ItsOnkar_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="mailto:onkarkarale.dev@gmail.com">
+  <a href="mailto:onkarkarale.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://dev.to/onkar_karale">
+  <a href="https://dev.to/onkar_karale" target="_blank">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/641915749161500672">
+  <a href="https://discord.com/users/641915749161500672" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
